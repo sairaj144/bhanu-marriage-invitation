@@ -466,6 +466,12 @@ body {
     background: url("../img/siva.jpg") center/cover no-repeat;
 }
 
+@media (max-width: 768px) {
+  body {
+    background: url("../img/siva-mobile.jpg") center/cover no-repeat;
+  }
+}
+
 .title {
 	margin-bottom: 40px;
 }
